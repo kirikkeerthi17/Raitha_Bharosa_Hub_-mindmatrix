@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181720528579",
+    "firebase_url": "https://raithabharosaapp-default-rtdb.firebaseio.com",
+    "project_id": "raithabharosaapp",
+    "storage_bucket": "raithabharosaapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181720528579:android:b40296d19fe3f176e75476",
+        "android_client_info": {
+          "package_name": "com.example.raitha_bharosa_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181720528579-ks0ii81ml6p8enrt9qplrk45hcqjenlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbYjp0IgTnd8UQfNqhfrU08R9qoHyRX5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181720528579-ks0ii81ml6p8enrt9qplrk45hcqjenlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

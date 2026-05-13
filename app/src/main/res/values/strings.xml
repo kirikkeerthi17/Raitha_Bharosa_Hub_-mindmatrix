@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">
+        Raitha Bharosa Hub
+    </string>
+
+    <!-- Bottom Navigation -->
+    <string name="dashboard">
+        Dashboard
+    </string>
+
+    <string name="input">
+        Input
+    </string>
+
+    <string name="history">
+        History
+    </string>
+
+    <string name="soil">
+        Soil Analytics
+    </string>
+
+    <string name="krishi">
+        Krishi Calendar
+    </string>
+
+    <string name="settings">
+        Settings
+    </string>
+
+    <!-- Weather -->
+    <string name="weather">
+        Weather
+    </string>
+
+    <string name="temperature">
+        Temperature
+    </string>
+
+    <string name="humidity">
+        Humidity
+    </string>
+
+    <string name="rain">
+        Rain
+    </string>
+
+    <string name="wind">
+        Wind
+    </string>
+
+    <!-- Farming -->
+    <string name="moisture">
+        Moisture
+    </string>
+
+    <string name="nitrogen">
+        Nitrogen
+    </string>
+
+    <string name="analyze">
+        Analyze
+    </string>
+
+    <string name="result_text">
+        Result will appear here
+    </string>
+
+    <!-- Dashboard -->
+    <string name="chatbot">
+        AI Chatbot
+    </string>
+
+    <string name="alerts">
+        Alerts
+    </string>
+
+    <string name="good_day">
+        Good day for farming
+    </string>
+
+</resources>

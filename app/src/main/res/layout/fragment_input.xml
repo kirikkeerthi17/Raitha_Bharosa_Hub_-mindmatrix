@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Moisture Input -->
+    <EditText
+        android:id="@+id/moisture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/moisture"
+        android:inputType="number" />
+
+    <!-- Nitrogen Input -->
+    <EditText
+        android:id="@+id/nitrogen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:hint="@string/nitrogen"
+        android:inputType="number" />
+
+    <!-- Analyze Button -->
+    <Button
+        android:id="@+id/analyzeBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/analyze" />
+
+    <!-- Result Display -->
+    <TextView
+        android:id="@+id/resultText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/result_text"
+        android:textSize="18sp" />
+
+</LinearLayout>

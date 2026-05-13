@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ರೈತ ಭರೋಸಾ ಹಬ್</string>
+
+    <string name="dashboard">ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+
+    <string name="soil">ಮಣ್ಣಿನ ವಿಶ್ಲೇಷಣೆ</string>
+
+    <string name="krishi">ಕೃಷಿ ಕ್ಯಾಲೆಂಡರ್</string>
+
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್ಸ್</string>
+
+    <string name="weather">ಹವಾಮಾನ</string>
+
+    <string name="temperature">ತಾಪಮಾನ</string>
+
+    <string name="humidity">ಆರ್ದ್ರತೆ</string>
+
+    <string name="rain">ಮಳೆ</string>
+
+    <string name="wind">ಗಾಳಿ</string>
+
+    <string name="chatbot">ಎಐ ಚಾಟ್‌ಬಾಟ್</string>
+
+    <string name="alerts">ಎಚ್ಚರಿಕೆಗಳು</string>
+
+    <string name="good_day">
+        ಕೃಷಿಗೆ ಉತ್ತಮ ದಿನ
+    </string>
+
+</resources>
